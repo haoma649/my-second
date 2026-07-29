@@ -1,0 +1,13 @@
+name: leo-dqn-reproduction
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - pyyaml
+  - pip
+  - pip:
+      - torch==2.0.0+cu118
+      - pytest>=8.0

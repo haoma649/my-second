@@ -1,0 +1,6 @@
+method,blocking_rate,spectral_efficiency,energy_efficiency,total_power
+Random,0.3466,267.0902,0.2368,1349.6951
+Q-learning,0.2454,315.5307,0.1847,1896.2406
+DQN,0.2223,227.5635,0.2933,1395.2756
+Greedy-Z,0.0599,402.6059,2.4116,229.1939
+DB-GNN,0.0359,408.9071,2.4586,297.8579
